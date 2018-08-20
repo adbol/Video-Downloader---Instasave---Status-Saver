@@ -1,0 +1,311 @@
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>AppVisor 1.0.43</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://publisher.appvisor.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD(TM) 2004 Association of Software Professionals (ASP)http://www.asp-shareware.org/pad is a data set standard and specification that is commercialsoftware publishers to disseminate certified information about their software application. The PAD format is copyright of the ASP and cannot be used without the formal licensing and permission of both the Association of Software Professionals and its agent AppVisor.com.</MASTER_PAD_INFO>
+    <CERTIFIED>No</CERTIFIED>
+    <CERTIFICATE_ID></CERTIFICATE_ID>
+    <CERTIFICATE_LICENSE></CERTIFICATE_LICENSE>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-520053FC101F</Company_UIN>
+    <Product_UIN>APP-7200DC53601F</Product_UIN>
+    <Publish_on_CD>N</Publish_on_CD>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Search_String>Socio Downloader</Search_String>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <Backlink></Backlink>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Search_String_Unique>Socio Downloader</Search_String_Unique>
+    <Search_Engine_Search_String></Search_Engine_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Company_Description></Company_Description>
+  </RoboSoft>
+  <Company_Info>
+    <PublisherID>pid-1200ec4faf0f</PublisherID>
+    <BrandID>bid-520053fc101f</BrandID>
+    <Company_Name>Devops</Company_Name>
+    <Country>United States of America</Country>
+    <State_Province>Kansas</State_Province>
+    <City_Town>Benton</City_Town>
+    <Zip_Postal_Code>67017</Zip_Postal_Code>
+    <Address_1>2392  Henery Street</Address_1>
+    <Address_2></Address_2>
+    <Company_WebSite_URL>https://www.sociodownloader.xyz/</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Nezzar</Contact_First_Name>
+      <Contact_Last_Name>Walid</Contact_Last_Name>
+      <Contact_Email>contact@nezzar.org</Contact_Email>
+      <Author_First_Name>Nezzar</Author_First_Name>
+      <Author_Last_Name>Walid</Author_Last_Name>
+      <Author_Email>contact@nezzar.org</Author_Email>
+      <Contact_Phone></Contact_Phone>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>contact@nezzar.org</Sales_Email>
+      <Support_Email>contact@nezzar.org</Support_Email>
+      <General_Email>contact@nezzar.org</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+    <GooglePlusPage></GooglePlusPage>
+    <LinkedinPage></LinkedinPage>
+    <TwitterCompanyPage></TwitterCompanyPage>
+    <FacebookCompanyPage></FacebookCompanyPage>
+  </Company_Info>
+  <Program_Info>
+    <AppID>app-7200dc53601f</AppID>
+    <Program_Name>Socio Downloader</Program_Name>
+    <Program_Version>1.0</Program_Version>
+    <Program_Release_Month>08</Program_Release_Month>
+    <Program_Release_Day>01</Program_Release_Day>
+    <Program_Release_Year>2018</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Category_Class>Audio &amp; Multimedia::Other</Program_Category_Class>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Program_Categories>Internet :: Tools &amp; Utilities</Program_Categories>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_Target_Platform>Android</Program_Target_Platform>
+    <Program_OS_Support>Android</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>Facebook, WhatsApp, Instagram Downloader</Program_Change_Info>
+    <Program_System_Requirements>Android OS</Program_System_Requirements>
+    <Limitations>No limitations</Limitations>
+    <Awards></Awards>
+    <File_Info>
+      <File_Size_Bytes>5120000</File_Size_Bytes>
+      <File_Size_K>5000</File_Size_K>
+      <File_Size_MB>4.88</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count></Expire_Count>
+      <Expire_Based_On></Expire_Based_On>
+      <Expire_Year></Expire_Year>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+    </Expire_Info>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_DirectX></Includes_DirectX>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://dinaapp.blogspot.com/2018/08/video-downloader-instasave-status-saver.html</Application_Info_URL>
+      <Application_Order_URL>https://dinaapp.blogspot.com/2018/08/video-downloader-instasave-status-saver.html</Application_Order_URL>
+      <Application_Screenshot_URL>https://i.imgur.com/Ytfflpq.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://i.imgur.com/eFdC5g8.png</Application_Icon_URL>
+      <Application_XML_File_URL>http://repository.appvisor.com/app-7200dc53601f/site-01/Socio_Downloader_pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/adbol/Video-Downloader---Instasave---Status-Saver/blob/master/videoaudiostatus.apk?raw=true</Primary_Download_URL>
+      <Secondary_Download_URL></Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Video Downloader, Instagram saver, Status Saver for whatsapp</Keywords>
+      <Char_Desc_45>Facebook, WhatsApp, Instagram Downloader</Char_Desc_45>
+      <Char_Desc_80>Facebook, WhatsApp, Instagram Downloader</Char_Desc_80>
+      <Char_Desc_250>With Video Downloader - Instasave - Status Saver utility detects, downloads and save shared Video Audio Status directly from the Internet onto your device.</Char_Desc_250>
+      <Char_Desc_450>With Video Downloader - Instasave - Status Saver utility detects, downloads and save shared Video Audio Status directly from the Internet onto your device.</Char_Desc_450>
+      <Char_Desc_2000>With Video Downloader - Instasave - Status Saver utility detects, downloads and save shared Video Audio Status directly from the Internet onto your device.
+This Video Audio Status downloader does not support youtube due to their terms of service.
+
+- Search or enter URL in the address bar to start browsing Video Audio Status.
+- Automatically detects Video Audio Status links from the browser after playing video.
+- Preview Video Audio Status before downloading.
+- Full feature download manager with pause/resume/remove and connection lost handling capabilities.
+- Awesome download manager and smart Video Audio Status detection feature.
+- Single tap downloads, play the Video Audio Status and press the download icon that pops up on the screen.
+- Download all Video Audio Status in the background.
+- Super fast downloading
+- Live downloader progress bar for each running download.
+- Notifies when the download is started or completed.
+- Support for large files download.
+- Support all Videos Audios Status formats such as MPK, AVI, MP4, MKV, FLV, WMV, MPG.
+- Change the download directory on Android devices having a version lower than KitKat
+- View your favorite videos in Landscape or portrait mode.
+- Support for HD Video Audio Status download
+- Fastest Video Audio Status downloader from all available Video Audio Status downloaders.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Permissions>
+    <Distribution_Permissions>The trial version of MySoftware can be freely distributed over the internet in an unchanged form</Distribution_Permissions>
+    <EULA>End-User License Agreement (EULA) of Video Downloader - Instasave - Status Saver
+
+This End-User License Agreement ('EULA') is a legal agreement between you and Devops
+
+This EULA agreement governs your acquisition and use of our Video Downloader - Instasave - Status Saver software ('Software') directly from Devops or indirectly through a Devops authorized reseller or distributor (a 'Reseller').
+
+Please read this EULA agreement carefully before completing the installation process and using the Video Downloader - Instasave - Status Saver software. It provides a license to use the Video Downloader - Instasave - Status Saver software and contains warranty information and liability disclaimers.
+
+If you register for a free trial of the Video Downloader - Instasave - Status Saver software, this EULA agreement will also govern that trial. By clicking 'accept' or installing and/or using the Video Downloader - Instasave - Status Saver software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
+
+If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
+
+This EULA agreement shall apply only to the Software supplied by Devops herewith regardless of whether other software is referred to or described herein. The terms also apply to any Devops updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
+
+License Grant
+
+Devops hereby grants you a personal, non-transferable, non-exclusive licence to use the Video Downloader - Instasave - Status Saver software on your devices in accordance with the terms of this EULA agreement.
+
+You are permitted to load the Video Downloader - Instasave - Status Saver software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the Video Downloader - Instasave - Status Saver software.
+
+You are not permitted to:
+
+
+- Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things
+- Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose
+- Allow any third party to use the Software on behalf of or for the benefit of any third party
+- Use the Software in any way which breaches any applicable local, national or international law
+- use the Software for any purpose that Devops considers is a breach of this EULA agreement
+
+
+Intellectual Property and Ownership
+
+Devops shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of Devops.
+
+Devops reserves the right to grant licences to use the Software to third parties.
+
+Termination
+
+This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to Devops.
+
+This EULA was created by eulatemplate.com for Video Downloader - Instasave - Status Saver
+
+It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
+
+Governing Law
+
+This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of [COUNTRY].</EULA>
+  </Permissions>
+  <Affiliates>
+    <Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regnow_Order_Page></Affiliates_Regnow_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regnow_Vendor_ID></Affiliates_Regnow_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
+    <Affiliates_Regnow_Product_ID></Affiliates_Regnow_Product_ID>
+    <Affiliates_FORM></Affiliates_FORM>
+    <Affiliates_FORM_VER></Affiliates_FORM_VER>
+    <Affiliates_VERSION></Affiliates_VERSION>
+    <Affiliates_URL></Affiliates_URL>
+    <Affiliates_Information_Page></Affiliates_Information_Page>
+    <Affiliates_Avangate_Order_Page></Affiliates_Avangate_Order_Page>
+    <Affiliates_Avangate_Vendor_ID></Affiliates_Avangate_Vendor_ID>
+    <Affiliates_Avangate_Product_ID></Affiliates_Avangate_Product_ID>
+    <Affiliates_Avangate_Maximum_Commission_Rate></Affiliates_Avangate_Maximum_Commission_Rate>
+    <Affiliates_BMTMicro_Order_Page></Affiliates_BMTMicro_Order_Page>
+    <Affiliates_BMTMicro_Vendor_ID></Affiliates_BMTMicro_Vendor_ID>
+    <Affiliates_BMTMicro_Product_ID></Affiliates_BMTMicro_Product_ID>
+    <Affiliates_BMTMicro_Maximum_Commission_Rate></Affiliates_BMTMicro_Maximum_Commission_Rate>
+    <Affiliates_eSellerate_Order_Page></Affiliates_eSellerate_Order_Page>
+    <Affiliates_eSellerate_Vendor_ID></Affiliates_eSellerate_Vendor_ID>
+    <Affiliates_eSellerate_Product_ID></Affiliates_eSellerate_Product_ID>
+    <Affiliates_eSellerate_Maximum_Commission_Rate></Affiliates_eSellerate_Maximum_Commission_Rate>
+    <Affiliates_Kagi_Order_Page></Affiliates_Kagi_Order_Page>
+    <Affiliates_Kagi_Vendor_ID></Affiliates_Kagi_Vendor_ID>
+    <Affiliates_Kagi_Product_ID></Affiliates_Kagi_Product_ID>
+    <Affiliates_Kagi_Maximum_Commission_Rate></Affiliates_Kagi_Maximum_Commission_Rate>
+    <Affiliates_Order1_Order_Page></Affiliates_Order1_Order_Page>
+    <Affiliates_Order1_Vendor_ID></Affiliates_Order1_Vendor_ID>
+    <Affiliates_Order1_Product_ID></Affiliates_Order1_Product_ID>
+    <Affiliates_Order1_Maximum_Commission_Rate></Affiliates_Order1_Maximum_Commission_Rate>
+    <Affiliates_Regnet_Order_Page></Affiliates_Regnet_Order_Page>
+    <Affiliates_Regnet_Vendor_ID></Affiliates_Regnet_Vendor_ID>
+    <Affiliates_Regnet_Product_ID></Affiliates_Regnet_Product_ID>
+    <Affiliates_Regnet_Maximum_Commission_Rate></Affiliates_Regnet_Maximum_Commission_Rate>
+    <Affiliates_Regnow_Maximum_Commission_Rate></Affiliates_Regnow_Maximum_Commission_Rate>
+    <Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
+    <Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+    <Affiliates_SWReg_Order_Page></Affiliates_SWReg_Order_Page>
+    <Affiliates_SWReg_Vendor_ID></Affiliates_SWReg_Vendor_ID>
+    <Affiliates_SWReg_Product_ID></Affiliates_SWReg_Product_ID>
+    <Affiliates_SWReg_Maximum_Commission_Rate></Affiliates_SWReg_Maximum_Commission_Rate>
+  </Affiliates>
+  <NewsFeed>
+    <NewsFeed_FORM></NewsFeed_FORM>
+    <NewsFeed_VERSION></NewsFeed_VERSION>
+    <NewsFeed_URL></NewsFeed_URL>
+    <NewsFeed_DESCRIPTION></NewsFeed_DESCRIPTION>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Type></NewsFeed_Type>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Author_First_Name>Nezzar</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Walid</NewsFeed_Author_Last_Name>
+    <NewsFeed_Author_Email>contact@nezzar.org</NewsFeed_Author_Email>
+    <NewsFeed_Language></NewsFeed_Language>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+    <NewsFeed_Purpose></NewsFeed_Purpose>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+  </NewsFeed>
+  <Press_Release>
+    <Press_Release></Press_Release>
+    <Keywords>Video Downloader, Instagram saver, Status Saver whatsapp</Keywords>
+    <Headline>Instagram, Facebook, WhatsApp, Twitter Downloader</Headline>
+    <Summary>With Video Downloader - Instasave - Status Saver utility detects, downloads and save shared Video Audio Status directly from the Internet onto your device.</Summary>
+    <Press_Release_Plain>Video Downloader - Instasave - Status Saver
+
+With Video Downloader - Instasave - Status Saver utility detects, downloads and save shared Video Audio Status directly from the Internet onto your device.
+This Video Audio Status downloader does not support youtube due to their terms of service.
+https://play.google.com/store/apps/details?id=com.videoaudiostatus.downloader
+
+- Search or enter URL in the address bar to start browsing Video Audio Status.
+- Automatically detects Video Audio Status links from the browser after playing video.
+- Preview Video Audio Status before downloading.
+- Full feature download manager with pause/resume/remove and connection lost handling capabilities.
+- Awesome download manager and smart Video Audio Status detection feature.
+- Single tap downloads, play the Video Audio Status and press the download icon that pops up on the screen.
+- Download all Video Audio Status in the background.
+- Super fast downloading
+- Live downloader progress bar for each running download.
+- Notifies when the download is started or completed.
+- Support for large files download.
+- Support all Videos Audios Status formats such as MPK, AVI, MP4, MKV, FLV, WMV, MPG.
+- Change the download directory on Android devices having a version lower than KitKat
+- View your favorite videos in Landscape or portrait mode.
+- Support for HD Video Audio Status download
+- Fastest Video Audio Status downloader from all available Video Audio Status downloaders.
+
+Video Audio Status Download Steps: in the screenshot</Press_Release_Plain>
+  </Press_Release>
+  <Site>
+    <Site_FORM></Site_FORM>
+    <Site_VERSION></Site_VERSION>
+    <Site_DESCRIPTION></Site_DESCRIPTION>
+    <Site_Site_Title></Site_Site_Title>
+    <Site_Site_URL></Site_Site_URL>
+    <Site_Keywords></Site_Keywords>
+    <Site_Description_100></Site_Description_100>
+    <Site_Description_250></Site_Description_250>
+    <Site_Description_450></Site_Description_450>
+    <Site_Contact_First_Name>Nezzar</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Walid</Site_Contact_Last_Name>
+    <Site_Contact_Email>contact@nezzar.org</Site_Contact_Email>
+  </Site>
+  <Dynamic_PAD>
+    <General>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
+      <DP_Distributive_Enabled>TRUE</DP_Distributive_Enabled>
+      <DP_Script_Base_URL>http://repository.appvisor.com/</DP_Script_Base_URL>
+      <DP_Pad_Mask>Socio_Downloader_pad.xml</DP_Pad_Mask>
+      <DP_Distributive_Primary_URL>https://github.com/adbol/Video-Downloader---Instasave---Status-Saver/blob/master/videoaudiostatus.apk?raw=true</DP_Distributive_Primary_URL>
+      <DP_Distributive_Mask>videoaudiostatus.apk?raw=true</DP_Distributive_Mask>
+    </General>
+  </Dynamic_PAD>
+</XML_DIZ_INFO>
